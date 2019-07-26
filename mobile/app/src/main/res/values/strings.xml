@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">#DoBetter</string>
+
+    <string name="action_history">History</string>
+    <string name="action_helper">Helper name</string>
+    <string name="action_functions">Function name</string>
+
+    <string name="title_helper">Helper</string>
+    <string name="title_functions">Function</string>
+
+    <string name="one_variable">One Variable</string>
+    <string name="two_variable">Two Variable</string>
+
+
+    <string name="calc_gcd">Greatest Common Divisor</string>
+    <string name="calc_lcm">Least Common Multiple</string>
+    <string name="calc_add_m">Addition Modulo n</string>
+    <string name="calc_multiply_n">Multiplication Modulo n</string>
+    <string name="calc_permutation">Permutations</string>
+
+    <string name="calc_timestamp">April 10, 2018 14:10</string>
+    <string name="calc_details">Greatest Common Divisor:\nIN: 3 and 6\nOUT:3</string>
+
+    <string name="select_function">Select function</string>
+
+
+    <string name="value_n">n:</string>
+    <string name="value_x">X:</string>
+    <string name="value_y">Y:</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="related_calculations">Related:</string>
+
+    <string name="output">Output:</string>
+    <string name="answer_goes_here">Answer goes here</string>
+
+
+</resources>
